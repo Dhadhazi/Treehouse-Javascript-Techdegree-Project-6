@@ -1,0 +1,9 @@
+extends layout
+
+block content
+	h1 Oooops something unexpected happened!
+	h2 
+		a(href="/") Click here to go back to the main page
+			img(src="/static/img/sith.png")
+	h2= err.status
+	pre= err.stack

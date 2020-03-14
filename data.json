@@ -1,0 +1,49 @@
+{
+	"projects": [
+		{
+			"id": 1,
+			"project_name": "Saitama vs Suiryu",
+			"description": "Suiryu is left in shock at Saitama's strength and hopes not to run into him in the future. Saitama is chased away by the security staff while Suiryu is awarded with the prize money.",
+			"technologies": ["DODGE","PUNCH"],
+			"live_link": "https://www.youtube.com/watch?v=A_lQ7qxNEHI",
+			"github_link": "https://onepunchman.fandom.com/wiki/Saitama_vs._Suiryu",
+			"images_urls": ["sas1", "sas2"]
+		},
+		{
+			"id": 2,
+			"project_name": "List Pagination and Filtering",
+			"description": "Displaying a long list of items on a web page, like a list of 200 movie titles or 400 products, can overwhelm a user with too much information at once. ",
+			"technologies": ["HTML","CSS","JavaScript"],
+			"live_link": "https://dhadhazi.github.io/Treehouse-Javascript-Techdegree-Project-2/",
+			"github_link": "https://github.com/Dhadhazi/Treehouse-JavaScript-Techdegree-Project-2",
+			"images_urls": ["list1", "list2"]
+		},
+		{
+			"id": 3,
+			"project_name": "Interactive Form",
+			"description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+			"technologies": ["HTML","CSS","JavaScript"],
+			"live_link": "https://dhadhazi.github.io/Treehouse-Javascript-Techdegree-Project-3/",
+			"github_link": "https://github.com/Dhadhazi/Treehouse-JavaScript-Techdegree-Project-3",
+			"images_urls": ["form1", "form2"]
+		},
+		{
+			"id": 4,
+			"project_name": "OOP Game Show",
+			"description": "Like hangman, without hanging anybody",
+			"technologies": ["HTML","CSS","JavaScript"],
+			"live_link": "https://dhadhazi.github.io/Treehouse-Javascript-Techdegree-Project-4/",
+			"github_link": "https://github.com/Dhadhazi/Treehouse-JavaScript-Techdegree-Project-4",
+			"images_urls": ["oopgameshow_1", "oopgameshow_2"]
+		},
+		{
+			"id": 5,
+			"project_name": "Random Employee Database",
+			"description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+			"technologies": ["HTML","CSS","EXPRESS"],
+			"live_link": "https://dhadhazi.github.io/Treehouse-Javascript-Techdegree-Project-5/",
+			"github_link": "https://github.com/Dhadhazi/Treehouse-JavaScript-Techdegree-Project-5",
+			"images_urls": ["api1", "api2"]
+		}
+	]
+}
