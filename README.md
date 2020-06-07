@@ -1,5 +1,5 @@
-# Treeehouse's Full Stack JavaScript Techdegree, Project 4
-## OOP Game Show App
+# Treeehouse's Full Stack JavaScript Techdegree, Project 6
+## Static Node.js and Express Site
 ### About this Project
 So far you've worked with a lot of "client-side" JavaScript. Which is just an industry way of saying JavaScript in the browser. All of the JavaScript you've written for the first five projects in this Techdegree is run right in the browser. Now it's time to continue your journey out of the browser and start writing some powerful "server-side" JavaScript.
 
@@ -18,4 +18,3 @@ Set up the middleware to utilize static files like CSS
 Handle errors
 Set up a server to serve the project
 After building this project, you should have a comfortable working knowledge of Node.js, Express and Pug, setting up a server, handling requests, working with server-side JavaScript, and building a powerful and modern back end project. And you'll have an important new skill to make you more marketable as a Full Stack JavaScript Developer.
-
