@@ -1,20 +1,18 @@
 # Treeehouse's Full Stack JavaScript Techdegree, Project 6
-## Static Node.js and Express Site
+## A Random Quote Generator
 ### About this Project
-So far you've worked with a lot of "client-side" JavaScript. Which is just an industry way of saying JavaScript in the browser. All of the JavaScript you've written for the first five projects in this Techdegree is run right in the browser. Now it's time to continue your journey out of the browser and start writing some powerful "server-side" JavaScript.
+For this first project, you'll create an app that displays random famous quotes each time a button is clicked. You will select your own quotes from famous historical figures, artists, scientists, celebrities, etc.
 
-In this project, you'll create a gorgeous portfolio site to showcase the great projects you've built. The site will contain a modern landing page, an about page where you'll have a chance to share contact info, practice your elevator pitch and talk a little about yourself, and a series of project pages to show off and detail at least your first five projects from this Techdegree.
+Example:
 
-You'll create a JSON file to store all the data about the projects you've created.
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
-You'll use Pug to complete provided templates that utilize the JSON to generate the markup that is ultimately displayed in the browser.
+You'll locate and select your own quotes. Please select tasteful, positive and uncontroversial quotes, for the sake of this project. Thank you.
 
-You'll use Node.js and Express to:
+You'll use your growing knowledge of basic JavaScript syntax, variables, loops, conditionals and object literals to:
 
-Import the required dependencies
-Link the JSON with the Pug templates
-Set up routes to handle requests
-Set up the middleware to utilize static files like CSS
-Handle errors
-Set up a server to serve the project
-After building this project, you should have a comfortable working knowledge of Node.js, Express and Pug, setting up a server, handling requests, working with server-side JavaScript, and building a powerful and modern back end project. And you'll have an important new skill to make you more marketable as a Full Stack JavaScript Developer.
+Build the array of quote objects to store the quotes
+Write your own functions for selecting random quotes from the array and printing them to the screen.
+This project is a fun and effective way for you to practice basic JavaScript skills while also creating a simple interactive portfolio piece to showcase your understanding of JavaScript fundamentals.
+
+After completing this project, you'll have a tremendous sense of accomplishment, an awesome example of your hard work to show off, and you'll be one important step closer to your goals. Best of luck and happy coding!
